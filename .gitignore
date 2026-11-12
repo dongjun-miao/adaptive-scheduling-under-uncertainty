@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Expanded raw experimental details (the archive stays tracked)
+phase2c-final-pilot/*-B*.json
+
+# New experiment output directories
+phase2a-pilot/
+phase2b-pilot/
+phase2c-pilot/
+new-pilot-output/
+
+# Downstream benchmark instances (download from upstream)
+fixtures/abz5
+
+# Misc
+*.log
