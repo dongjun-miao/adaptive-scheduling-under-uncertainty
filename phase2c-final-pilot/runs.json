@@ -1,0 +1,3074 @@
+[
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "1bb90882dba0dab83d38991f0a81502db945c5bde8e2e282f3f137bb69a6a58c",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0018219,
+      "overhead": 0.01176349999877857,
+      "validation_seconds": 1.9700004486367106e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "1bb90882dba0dab83d38991f0a81502db945c5bde8e2e282f3f137bb69a6a58c",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0007458,
+      "overhead": 0.0018776999859255739,
+      "validation_seconds": 1.550000160932541e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "1bb90882dba0dab83d38991f0a81502db945c5bde8e2e282f3f137bb69a6a58c",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 3,
+      "solver_seconds": 0.0011533000000000001,
+      "overhead": 0.0021419999975478277,
+      "validation_seconds": 2.259999018860981e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 3.8321999999999995e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "1bb90882dba0dab83d38991f0a81502db945c5bde8e2e282f3f137bb69a6a58c",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 1,
+      "solver_seconds": 0.0005545000000000001,
+      "overhead": 0.00110119999590097,
+      "validation_seconds": 9.099996532313526e-06,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.02
+    },
+    "deterministic_effort": 2.446e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "2cadf6fc8b66b772b3536b612dfac982e222f5e36252ffab696976437969a1b9",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0007034000000000001,
+      "overhead": 0.0013401000032899901,
+      "validation_seconds": 1.4999997802078724e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "2cadf6fc8b66b772b3536b612dfac982e222f5e36252ffab696976437969a1b9",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0007879,
+      "overhead": 0.0014890000020386651,
+      "validation_seconds": 1.3600001693703234e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "2cadf6fc8b66b772b3536b612dfac982e222f5e36252ffab696976437969a1b9",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 3,
+      "solver_seconds": 0.0012235000000000002,
+      "overhead": 0.002271299992571585,
+      "validation_seconds": 2.2400003217626363e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 3.8321999999999995e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "2cadf6fc8b66b772b3536b612dfac982e222f5e36252ffab696976437969a1b9",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 4,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 1,
+      "solver_seconds": 0.0005959,
+      "overhead": 0.0011901999969268218,
+      "validation_seconds": 1.0899995686486363e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.02
+    },
+    "deterministic_effort": 2.446e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "289226456dac3fb07d63d52603cc5b81de8e7a9fbdd424962cf6ec9caea242be",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 6,
+    "accounting": {
+      "callbacks": 6,
+      "solver_calls": 2,
+      "solver_seconds": 0.0009505000000000001,
+      "overhead": 0.0017558000035933219,
+      "validation_seconds": 1.68999977177009e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 2,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 3.1974e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "289226456dac3fb07d63d52603cc5b81de8e7a9fbdd424962cf6ec9caea242be",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 6,
+    "accounting": {
+      "callbacks": 6,
+      "solver_calls": 2,
+      "solver_seconds": 0.0010327000000000001,
+      "overhead": 0.0019864999994751997,
+      "validation_seconds": 1.750000228639692e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 2,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 3.1974e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "289226456dac3fb07d63d52603cc5b81de8e7a9fbdd424962cf6ec9caea242be",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 6,
+    "accounting": {
+      "callbacks": 6,
+      "solver_calls": 5,
+      "solver_seconds": 0.0015285000000000001,
+      "overhead": 0.003072999999858439,
+      "validation_seconds": 3.560000186553225e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.1
+    },
+    "deterministic_effort": 3.6474e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "289226456dac3fb07d63d52603cc5b81de8e7a9fbdd424962cf6ec9caea242be",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 7,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 2,
+      "solver_seconds": 0.0009192,
+      "overhead": 0.0018524999904911965,
+      "validation_seconds": 1.6800004232209176e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 6,
+      "delayed": 1,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 3.2022e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 1.0,
+        "RMSE": 1.1832159566199232
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "50c6380151b6fe16197aba9bf9f2b2c39daaeaaa27d2ce7b8e82d6936177b802",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 7,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 3,
+      "solver_seconds": 0.0011236,
+      "overhead": 0.0021640000049956143,
+      "validation_seconds": 2.2899999748915434e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 2,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 4.0241999999999995e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "50c6380151b6fe16197aba9bf9f2b2c39daaeaaa27d2ce7b8e82d6936177b802",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 7,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 3,
+      "solver_seconds": 0.0012243,
+      "overhead": 0.0024071000079857185,
+      "validation_seconds": 2.2799991711508483e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 2,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 4.0241999999999995e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "50c6380151b6fe16197aba9bf9f2b2c39daaeaaa27d2ce7b8e82d6936177b802",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 7,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 4,
+      "solver_seconds": 0.0014674,
+      "overhead": 0.0029240000003483146,
+      "validation_seconds": 2.970001514768228e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 2,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.08
+    },
+    "deterministic_effort": 6.252200000000001e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "50c6380151b6fe16197aba9bf9f2b2c39daaeaaa27d2ce7b8e82d6936177b802",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 8,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 2,
+      "solver_seconds": 0.0010010000000000002,
+      "overhead": 0.0019712999928742647,
+      "validation_seconds": 1.670000347075984e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 5,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 4.714000000000001e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "9b7dd7128868aca6cf07fb515255461e99effa7d247dd94bcb9b09b4416affc0",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0007813000000000001,
+      "overhead": 0.0016079999986686744,
+      "validation_seconds": 1.4699995517730713e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "9b7dd7128868aca6cf07fb515255461e99effa7d247dd94bcb9b09b4416affc0",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0007625000000000002,
+      "overhead": 0.0014891999962856062,
+      "validation_seconds": 1.4599994756281376e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "9b7dd7128868aca6cf07fb515255461e99effa7d247dd94bcb9b09b4416affc0",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 3,
+      "solver_seconds": 0.0011686,
+      "overhead": 0.0022207000001799315,
+      "validation_seconds": 2.339998900424689e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 3.8321999999999995e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "9b7dd7128868aca6cf07fb515255461e99effa7d247dd94bcb9b09b4416affc0",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 1,
+      "solver_seconds": 0.0006597,
+      "overhead": 0.0013132000021869317,
+      "validation_seconds": 1.200000406242907e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.02
+    },
+    "deterministic_effort": 2.446e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "e81bf388c27890c34a2491f98958bcb4526fca074580e6930a39cf8763f7bf7e",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0008033000000000001,
+      "overhead": 0.00150529999518767,
+      "validation_seconds": 1.4800003555137664e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "e81bf388c27890c34a2491f98958bcb4526fca074580e6930a39cf8763f7bf7e",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 2,
+      "solver_seconds": 0.0013523,
+      "overhead": 0.002060699996945914,
+      "validation_seconds": 1.4099998224992305e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 2.506e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "e81bf388c27890c34a2491f98958bcb4526fca074580e6930a39cf8763f7bf7e",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 3,
+      "solver_seconds": 0.0011133,
+      "overhead": 0.002089200002956204,
+      "validation_seconds": 2.1200001356191933e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 3.8321999999999995e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "e81bf388c27890c34a2491f98958bcb4526fca074580e6930a39cf8763f7bf7e",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 5,
+    "accounting": {
+      "callbacks": 4,
+      "solver_calls": 1,
+      "solver_seconds": 0.0005755000000000001,
+      "overhead": 0.0011305000007268973,
+      "validation_seconds": 8.900002285372466e-06,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.02
+    },
+    "deterministic_effort": 2.446e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "87c67af042b8db718d0c2a1e66c293a76ce5d7e0ce9105360f149a2532079639",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 9,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 3,
+      "solver_seconds": 0.0011521,
+      "overhead": 0.002303000001120381,
+      "validation_seconds": 2.379999205004424e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 3,
+      "delayed": 1,
+      "forecast_updates": 0,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 3.2373999999999997e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "87c67af042b8db718d0c2a1e66c293a76ce5d7e0ce9105360f149a2532079639",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 9,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 3,
+      "solver_seconds": 0.0013399,
+      "overhead": 0.0026058000075863674,
+      "validation_seconds": 2.4900000425986946e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 3,
+      "delayed": 1,
+      "forecast_updates": 5,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 3.2373999999999997e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.4142135623730951
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "87c67af042b8db718d0c2a1e66c293a76ce5d7e0ce9105360f149a2532079639",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 8,
+    "accounting": {
+      "callbacks": 7,
+      "solver_calls": 5,
+      "solver_seconds": 0.0015271,
+      "overhead": 0.003137100000458304,
+      "validation_seconds": 3.759999526664615e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.1
+    },
+    "deterministic_effort": 3.6474e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "87c67af042b8db718d0c2a1e66c293a76ce5d7e0ce9105360f149a2532079639",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 10,
+    "accounting": {
+      "callbacks": 9,
+      "solver_calls": 3,
+      "solver_seconds": 0.0013324,
+      "overhead": 0.0029307999939192086,
+      "validation_seconds": 2.400000812485814e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 7,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 3.2022e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "b7e8108fb7af730296a0db2efa977a47f8ed2cbffd916ef2230bead1dc838682",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 10,
+    "accounting": {
+      "callbacks": 8,
+      "solver_calls": 4,
+      "solver_seconds": 0.0012882000000000002,
+      "overhead": 0.002563000001828186,
+      "validation_seconds": 2.8700000257231295e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 3,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.08
+    },
+    "deterministic_effort": 4.0842e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "b7e8108fb7af730296a0db2efa977a47f8ed2cbffd916ef2230bead1dc838682",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 10,
+    "accounting": {
+      "callbacks": 8,
+      "solver_calls": 4,
+      "solver_seconds": 0.0013726,
+      "overhead": 0.0026986999946529977,
+      "validation_seconds": 2.630000381032005e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 3,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.08
+    },
+    "deterministic_effort": 4.0241999999999995e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 1.0,
+        "RMSE": 1.3416407864998738
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "b7e8108fb7af730296a0db2efa977a47f8ed2cbffd916ef2230bead1dc838682",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 10,
+    "accounting": {
+      "callbacks": 8,
+      "solver_calls": 5,
+      "solver_seconds": 0.0017899,
+      "overhead": 0.0035043000025325455,
+      "validation_seconds": 5.6500008213333786e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 2,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.1
+    },
+    "deterministic_effort": 6.512200000000001e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      }
+    }
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "b7e8108fb7af730296a0db2efa977a47f8ed2cbffd916ef2230bead1dc838682",
+    "config": {
+      "period": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 10,
+    "accounting": {
+      "callbacks": 8,
+      "solver_calls": 2,
+      "solver_seconds": 0.0010509,
+      "overhead": 0.0021237000037217513,
+      "validation_seconds": 1.8200000340584666e-05,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 5,
+      "delayed": 0,
+      "forecast_updates": 5,
+      "allocated_budget": 0.04
+    },
+    "deterministic_effort": 4.714000000000001e-06,
+    "metrics": {
+      "start_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      },
+      "decision_time": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "a3300d78aaffd6502d13b7b0731e91e98664e4beda2f48009b6d16a499c33e95",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1414,
+    "accounting": {
+      "callbacks": 232,
+      "solver_calls": 8,
+      "solver_seconds": 0.2971952,
+      "overhead": 0.4217120999528561,
+      "validation_seconds": 0.000808900011179503,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.08061200152664956,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "a3300d78aaffd6502d13b7b0731e91e98664e4beda2f48009b6d16a499c33e95",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1414,
+    "accounting": {
+      "callbacks": 232,
+      "solver_calls": 8,
+      "solver_seconds": 0.28925500000000004,
+      "overhead": 0.4289336999572697,
+      "validation_seconds": 0.0008162999947671779,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.08061200152664956,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "a3300d78aaffd6502d13b7b0731e91e98664e4beda2f48009b6d16a499c33e95",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1394,
+    "accounting": {
+      "callbacks": 421,
+      "solver_calls": 10,
+      "solver_seconds": 0.7870421000000001,
+      "overhead": 1.0571748000365915,
+      "validation_seconds": 0.002053000011073891,
+      "fallbacks": 407,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20049931974959337,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "a3300d78aaffd6502d13b7b0731e91e98664e4beda2f48009b6d16a499c33e95",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1327,
+    "accounting": {
+      "callbacks": 110,
+      "solver_calls": 1,
+      "solver_seconds": 0.08333270000000001,
+      "overhead": 0.14906630000768928,
+      "validation_seconds": 0.00024309999571414664,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.02
+    },
+    "deterministic_effort": 0.020035420436857493,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "6bc79b161179c2e04b938a9201cd985511f275d614c591653d2cad43906aa71f",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1414,
+    "accounting": {
+      "callbacks": 232,
+      "solver_calls": 8,
+      "solver_seconds": 0.2884562,
+      "overhead": 0.4125824999937322,
+      "validation_seconds": 0.0008422000028076582,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 0,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.08061200152664956,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "6bc79b161179c2e04b938a9201cd985511f275d614c591653d2cad43906aa71f",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1414,
+    "accounting": {
+      "callbacks": 232,
+      "solver_calls": 8,
+      "solver_seconds": 0.2885671,
+      "overhead": 0.4230703000066569,
+      "validation_seconds": 0.0008588000055169687,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.08061200152664956,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "6bc79b161179c2e04b938a9201cd985511f275d614c591653d2cad43906aa71f",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1394,
+    "accounting": {
+      "callbacks": 421,
+      "solver_calls": 10,
+      "solver_seconds": 0.7924788,
+      "overhead": 1.0447754001506837,
+      "validation_seconds": 0.0021118999939062633,
+      "fallbacks": 407,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20049931974959337,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "6bc79b161179c2e04b938a9201cd985511f275d614c591653d2cad43906aa71f",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1327,
+    "accounting": {
+      "callbacks": 110,
+      "solver_calls": 1,
+      "solver_seconds": 0.0791638,
+      "overhead": 0.16040580000117188,
+      "validation_seconds": 0.00021570000535575673,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.02
+    },
+    "deterministic_effort": 0.020035420436857493,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "3149ac538b0d236c2da411c877d2417ffc9a1ea8013fa85ef1c95bab1edb74be",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2347,
+    "accounting": {
+      "callbacks": 461,
+      "solver_calls": 10,
+      "solver_seconds": 0.4445755,
+      "overhead": 0.722039299987955,
+      "validation_seconds": 0.001194899989059195,
+      "fallbacks": 21,
+      "invalid": 0,
+      "blocked": 1856,
+      "delayed": 67,
+      "forecast_updates": 0,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.12395360388496382,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 42.29,
+        "RMSE": 58.47178806911928
+      },
+      "decision_time": {
+        "coverage": 90,
+        "MAE": 42.27777777777778,
+        "RMSE": 58.28559951747182
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "3149ac538b0d236c2da411c877d2417ffc9a1ea8013fa85ef1c95bab1edb74be",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2186,
+    "accounting": {
+      "callbacks": 440,
+      "solver_calls": 10,
+      "solver_seconds": 0.3113598,
+      "overhead": 0.6018623000200023,
+      "validation_seconds": 0.0011963999932049774,
+      "fallbacks": 12,
+      "invalid": 0,
+      "blocked": 774,
+      "delayed": 57,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.07714274607520696,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 42.38,
+        "RMSE": 47.626673198954386
+      },
+      "decision_time": {
+        "coverage": 97,
+        "MAE": 43.69072164948454,
+        "RMSE": 50.33803259736316
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "3149ac538b0d236c2da411c877d2417ffc9a1ea8013fa85ef1c95bab1edb74be",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2322,
+    "accounting": {
+      "callbacks": 586,
+      "solver_calls": 10,
+      "solver_seconds": 0.7385122000000001,
+      "overhead": 1.1235716000155662,
+      "validation_seconds": 0.002012699995248113,
+      "fallbacks": 537,
+      "invalid": 0,
+      "blocked": 63,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20019446574073896,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 41.94,
+        "RMSE": 47.565113265922115
+      },
+      "decision_time": {
+        "coverage": 15,
+        "MAE": 39.53333333333333,
+        "RMSE": 52.67953429305666
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "3149ac538b0d236c2da411c877d2417ffc9a1ea8013fa85ef1c95bab1edb74be",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2170,
+    "accounting": {
+      "callbacks": 399,
+      "solver_calls": 8,
+      "solver_seconds": 0.3048126,
+      "overhead": 0.6102110999854631,
+      "validation_seconds": 0.0010173999980906956,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 1042,
+      "delayed": 64,
+      "forecast_updates": 100,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.07687510267520697,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 42.33,
+        "RMSE": 47.52883335408097
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 44.09,
+        "RMSE": 50.54730457699995
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "736587d71ec34f9e6f36085156b96bf5feaf4b38e20b6885ae568f6e87e7c99d",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2133,
+    "accounting": {
+      "callbacks": 430,
+      "solver_calls": 10,
+      "solver_seconds": 0.34104070000000003,
+      "overhead": 0.6150524999538902,
+      "validation_seconds": 0.0011749999976018444,
+      "fallbacks": 4,
+      "invalid": 0,
+      "blocked": 1734,
+      "delayed": 68,
+      "forecast_updates": 0,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.08730105503889368,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 39.4,
+        "RMSE": 56.10115863331167
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 39.4,
+        "RMSE": 56.10115863331167
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "736587d71ec34f9e6f36085156b96bf5feaf4b38e20b6885ae568f6e87e7c99d",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2292,
+    "accounting": {
+      "callbacks": 456,
+      "solver_calls": 10,
+      "solver_seconds": 0.38294320000000004,
+      "overhead": 0.7115775999409379,
+      "validation_seconds": 0.0014573000007658266,
+      "fallbacks": 18,
+      "invalid": 0,
+      "blocked": 834,
+      "delayed": 59,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.10568281356617099,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 38.72,
+        "RMSE": 45.4138745319093
+      },
+      "decision_time": {
+        "coverage": 94,
+        "MAE": 39.01063829787234,
+        "RMSE": 47.22659276117415
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "736587d71ec34f9e6f36085156b96bf5feaf4b38e20b6885ae568f6e87e7c99d",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2256,
+    "accounting": {
+      "callbacks": 597,
+      "solver_calls": 10,
+      "solver_seconds": 0.7585753000000001,
+      "overhead": 1.1753256001102272,
+      "validation_seconds": 0.0020472999967751093,
+      "fallbacks": 556,
+      "invalid": 0,
+      "blocked": 55,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20066791930399702,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 38.81,
+        "RMSE": 45.79770736619902
+      },
+      "decision_time": {
+        "coverage": 15,
+        "MAE": 38.333333333333336,
+        "RMSE": 51.789960417053805
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "736587d71ec34f9e6f36085156b96bf5feaf4b38e20b6885ae568f6e87e7c99d",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2254,
+    "accounting": {
+      "callbacks": 420,
+      "solver_calls": 9,
+      "solver_seconds": 0.35929880000000003,
+      "overhead": 0.6613084000637173,
+      "validation_seconds": 0.0010649000032572076,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 992,
+      "delayed": 68,
+      "forecast_updates": 100,
+      "allocated_budget": 0.18
+    },
+    "deterministic_effort": 0.1009802243078198,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 38.34,
+        "RMSE": 45.303862969949925
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 38.76,
+        "RMSE": 46.90714231329809
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "6f373cb1701bf739fcc6e5ec7d7d390a062a7926c9e538540b7621bab6ed75e4",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1582,
+    "accounting": {
+      "callbacks": 254,
+      "solver_calls": 8,
+      "solver_seconds": 0.27040010000000003,
+      "overhead": 0.4087864000684931,
+      "validation_seconds": 0.000844000001961831,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 188,
+      "delayed": 14,
+      "forecast_updates": 0,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.06888990138443918,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "6f373cb1701bf739fcc6e5ec7d7d390a062a7926c9e538540b7621bab6ed75e4",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1565,
+    "accounting": {
+      "callbacks": 243,
+      "solver_calls": 8,
+      "solver_seconds": 0.2828313,
+      "overhead": 0.4247092000005068,
+      "validation_seconds": 0.0008081999912974425,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 93,
+      "delayed": 14,
+      "forecast_updates": 100,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.06655640319180257,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 2.86,
+        "RMSE": 11.812705024675761
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 3.67,
+        "RMSE": 14.95025083401613
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "6f373cb1701bf739fcc6e5ec7d7d390a062a7926c9e538540b7621bab6ed75e4",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1908,
+    "accounting": {
+      "callbacks": 431,
+      "solver_calls": 10,
+      "solver_seconds": 0.7790566000000001,
+      "overhead": 1.061722100035695,
+      "validation_seconds": 0.0020803999941563234,
+      "fallbacks": 417,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20049931974959337,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 3.06,
+        "RMSE": 13.768079023596574
+      },
+      "decision_time": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "6f373cb1701bf739fcc6e5ec7d7d390a062a7926c9e538540b7621bab6ed75e4",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1588,
+    "accounting": {
+      "callbacks": 175,
+      "solver_calls": 3,
+      "solver_seconds": 0.1684166,
+      "overhead": 0.2760083000030136,
+      "validation_seconds": 0.0006668999922112562,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 182,
+      "delayed": 16,
+      "forecast_updates": 100,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 0.040410690715185646,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 2.85,
+        "RMSE": 11.804660096758399
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 3.73,
+        "RMSE": 14.07373440135915
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "9193bd5cb9a14e8bc3610a23ebf74545f5b09f0a561ccf11d263496a3d859cd9",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1582,
+    "accounting": {
+      "callbacks": 254,
+      "solver_calls": 8,
+      "solver_seconds": 0.2658679,
+      "overhead": 0.4001033000604366,
+      "validation_seconds": 0.0008174999966286123,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 188,
+      "delayed": 14,
+      "forecast_updates": 0,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.06888990138443918,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "9193bd5cb9a14e8bc3610a23ebf74545f5b09f0a561ccf11d263496a3d859cd9",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1565,
+    "accounting": {
+      "callbacks": 243,
+      "solver_calls": 8,
+      "solver_seconds": 0.2796924,
+      "overhead": 0.42207380002946593,
+      "validation_seconds": 0.0007748999996692874,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 93,
+      "delayed": 14,
+      "forecast_updates": 100,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.06655640319180257,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 2.86,
+        "RMSE": 11.812705024675761
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 3.67,
+        "RMSE": 14.95025083401613
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "9193bd5cb9a14e8bc3610a23ebf74545f5b09f0a561ccf11d263496a3d859cd9",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1908,
+    "accounting": {
+      "callbacks": 431,
+      "solver_calls": 10,
+      "solver_seconds": 0.7828166000000001,
+      "overhead": 1.0395671998921898,
+      "validation_seconds": 0.0020660000009229407,
+      "fallbacks": 417,
+      "invalid": 0,
+      "blocked": 0,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20049931974959337,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 3.06,
+        "RMSE": 13.768079023596574
+      },
+      "decision_time": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "9193bd5cb9a14e8bc3610a23ebf74545f5b09f0a561ccf11d263496a3d859cd9",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 1588,
+    "accounting": {
+      "callbacks": 175,
+      "solver_calls": 3,
+      "solver_seconds": 0.1597444,
+      "overhead": 0.26569270006439183,
+      "validation_seconds": 0.00042740000935737044,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 182,
+      "delayed": 16,
+      "forecast_updates": 100,
+      "allocated_budget": 0.06
+    },
+    "deterministic_effort": 0.040410690715185646,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 2.85,
+        "RMSE": 11.804660096758399
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 3.73,
+        "RMSE": 14.07373440135915
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "a2dfe9787bf2cc56e98880be0afd5ece73dc8d959120e5f65dde22e5bd507923",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2837,
+    "accounting": {
+      "callbacks": 467,
+      "solver_calls": 10,
+      "solver_seconds": 0.44140300000000005,
+      "overhead": 0.7429021000643843,
+      "validation_seconds": 0.0012345999930403195,
+      "fallbacks": 28,
+      "invalid": 0,
+      "blocked": 1951,
+      "delayed": 60,
+      "forecast_updates": 0,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.11304629457590624,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 53.13,
+        "RMSE": 81.21299157154598
+      },
+      "decision_time": {
+        "coverage": 85,
+        "MAE": 53.21176470588235,
+        "RMSE": 80.35970602821527
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "a2dfe9787bf2cc56e98880be0afd5ece73dc8d959120e5f65dde22e5bd507923",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2648,
+    "accounting": {
+      "callbacks": 469,
+      "solver_calls": 10,
+      "solver_seconds": 0.3482523,
+      "overhead": 0.6644889998642611,
+      "validation_seconds": 0.0012308000004850328,
+      "fallbacks": 42,
+      "invalid": 0,
+      "blocked": 909,
+      "delayed": 52,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.08800850984799923,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 47.66,
+        "RMSE": 58.2532402532254
+      },
+      "decision_time": {
+        "coverage": 91,
+        "MAE": 47.73626373626374,
+        "RMSE": 61.35234217297568
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "a2dfe9787bf2cc56e98880be0afd5ece73dc8d959120e5f65dde22e5bd507923",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 3095,
+    "accounting": {
+      "callbacks": 596,
+      "solver_calls": 10,
+      "solver_seconds": 0.7692001,
+      "overhead": 1.1718677999888314,
+      "validation_seconds": 0.0026169000047957525,
+      "fallbacks": 547,
+      "invalid": 0,
+      "blocked": 63,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20019446574073896,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 47.71,
+        "RMSE": 59.985248186533326
+      },
+      "decision_time": {
+        "coverage": 15,
+        "MAE": 50.6,
+        "RMSE": 80.30732635735464
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "a2dfe9787bf2cc56e98880be0afd5ece73dc8d959120e5f65dde22e5bd507923",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2608,
+    "accounting": {
+      "callbacks": 420,
+      "solver_calls": 9,
+      "solver_seconds": 0.31004760000000003,
+      "overhead": 0.6175714999844786,
+      "validation_seconds": 0.0010872999919229187,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 1023,
+      "delayed": 54,
+      "forecast_updates": 100,
+      "allocated_budget": 0.18
+    },
+    "deterministic_effort": 0.07974515881502925,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 47.71,
+        "RMSE": 58.18822905021255
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 48.42,
+        "RMSE": 60.19518253149499
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B1",
+    "scenario_hash": "6a964686a87863148fa9012caccbe9262758dd4c3a7003b0eb2bf53a4637f588",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2564,
+    "accounting": {
+      "callbacks": 440,
+      "solver_calls": 10,
+      "solver_seconds": 0.4128005,
+      "overhead": 0.6814180999499513,
+      "validation_seconds": 0.0011978999973507598,
+      "fallbacks": 15,
+      "invalid": 0,
+      "blocked": 1619,
+      "delayed": 62,
+      "forecast_updates": 0,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.10853652410377532,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 49.44,
+        "RMSE": 73.50673438536091
+      },
+      "decision_time": {
+        "coverage": 92,
+        "MAE": 46.858695652173914,
+        "RMSE": 69.54205796557186
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B2",
+    "scenario_hash": "6a964686a87863148fa9012caccbe9262758dd4c3a7003b0eb2bf53a4637f588",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2446,
+    "accounting": {
+      "callbacks": 462,
+      "solver_calls": 10,
+      "solver_seconds": 0.35345230000000005,
+      "overhead": 0.6746656000614166,
+      "validation_seconds": 0.0011584999883780256,
+      "fallbacks": 29,
+      "invalid": 0,
+      "blocked": 942,
+      "delayed": 58,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.09064475024544505,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 43.75,
+        "RMSE": 55.79507146693156
+      },
+      "decision_time": {
+        "coverage": 90,
+        "MAE": 45.022222222222226,
+        "RMSE": 61.6965693265571
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B3",
+    "scenario_hash": "6a964686a87863148fa9012caccbe9262758dd4c3a7003b0eb2bf53a4637f588",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2760,
+    "accounting": {
+      "callbacks": 599,
+      "solver_calls": 10,
+      "solver_seconds": 0.7460795,
+      "overhead": 1.1596663000673288,
+      "validation_seconds": 0.0020586000027833506,
+      "fallbacks": 558,
+      "invalid": 0,
+      "blocked": 55,
+      "delayed": 0,
+      "forecast_updates": 100,
+      "allocated_budget": 0.19999999999999998
+    },
+    "deterministic_effort": 0.20066791930399702,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 43.55,
+        "RMSE": 55.78951514397665
+      },
+      "decision_time": {
+        "coverage": 15,
+        "MAE": 42.266666666666666,
+        "RMSE": 53.98394823154997
+      }
+    }
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "optimizer_repetition": 0,
+    "policy": "B4",
+    "scenario_hash": "6a964686a87863148fa9012caccbe9262758dd4c3a7003b0eb2bf53a4637f588",
+    "config": {
+      "period": {
+        "numerator": 200,
+        "denominator": 1
+      },
+      "per_call": 0.02,
+      "total": 0.2,
+      "seed": 0,
+      "mode": "deterministic",
+      "safety_wall": 10.0
+    },
+    "status": "OK",
+    "error": null,
+    "makespan": 2571,
+    "accounting": {
+      "callbacks": 427,
+      "solver_calls": 8,
+      "solver_seconds": 0.3216588,
+      "overhead": 0.6734378999899491,
+      "validation_seconds": 0.0010479000047780573,
+      "fallbacks": 0,
+      "invalid": 0,
+      "blocked": 967,
+      "delayed": 64,
+      "forecast_updates": 100,
+      "allocated_budget": 0.16
+    },
+    "deterministic_effort": 0.07429624908706323,
+    "metrics": {
+      "start_time": {
+        "coverage": 100,
+        "MAE": 43.94,
+        "RMSE": 56.130383928849085
+      },
+      "decision_time": {
+        "coverage": 100,
+        "MAE": 44.1,
+        "RMSE": 57.6576100788092
+      }
+    }
+  }
+]

@@ -1,0 +1,1905 @@
+{
+  "description": "Final Phase2C only; two instances, four regimes, two seeds, one optimizer repetition. Deterministic seed duplicates are not independent.",
+  "rows": [
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 1414,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.2971952,
+      "effort": 0.08061200152664956,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 1414,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.28925500000000004,
+      "effort": 0.08061200152664956,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 1394,
+      "fallback_starts": 83,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 407,
+      "budget_exhaustion_callbacks": 85,
+      "calls": 10,
+      "wall": 0.7870421000000001,
+      "effort": 0.20049931974959337,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 1327,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 1,
+      "wall": 0.08333270000000001,
+      "effort": 0.020035420436857493,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 1414,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.2884562,
+      "effort": 0.08061200152664956,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 1414,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.2885671,
+      "effort": 0.08061200152664956,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 1394,
+      "fallback_starts": 83,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 407,
+      "budget_exhaustion_callbacks": 85,
+      "calls": 10,
+      "wall": 0.7924788,
+      "effort": 0.20049931974959337,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 1327,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 1,
+      "wall": 0.0791638,
+      "effort": 0.020035420436857493,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 1582,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.27040010000000003,
+      "effort": 0.06888990138443918,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 1565,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.2828313,
+      "effort": 0.06655640319180257,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 2.86,
+        "RMSE": 11.812705024675761
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 3.67,
+        "RMSE": 14.95025083401613
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 1908,
+      "fallback_starts": 83,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 417,
+      "budget_exhaustion_callbacks": 84,
+      "calls": 10,
+      "wall": 0.7790566000000001,
+      "effort": 0.20049931974959337,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 3.06,
+        "RMSE": 13.768079023596574
+      },
+      "decision_metric": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 1588,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.1684166,
+      "effort": 0.040410690715185646,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 2.85,
+        "RMSE": 11.804660096758399
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 3.73,
+        "RMSE": 14.07373440135915
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 1582,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.2658679,
+      "effort": 0.06888990138443918,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 6.57,
+        "RMSE": 23.565016443872896
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 1565,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.2796924,
+      "effort": 0.06655640319180257,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 2.86,
+        "RMSE": 11.812705024675761
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 3.67,
+        "RMSE": 14.95025083401613
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 1908,
+      "fallback_starts": 83,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 417,
+      "budget_exhaustion_callbacks": 84,
+      "calls": 10,
+      "wall": 0.7828166000000001,
+      "effort": 0.20049931974959337,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 3.06,
+        "RMSE": 13.768079023596574
+      },
+      "decision_metric": {
+        "coverage": 17,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 1588,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.1597444,
+      "effort": 0.040410690715185646,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 2.85,
+        "RMSE": 11.804660096758399
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 3.73,
+        "RMSE": 14.07373440135915
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 2347,
+      "fallback_starts": 10,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 21,
+      "budget_exhaustion_callbacks": 2,
+      "calls": 10,
+      "wall": 0.4445755,
+      "effort": 0.12395360388496382,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 42.29,
+        "RMSE": 58.47178806911928
+      },
+      "decision_metric": {
+        "coverage": 90,
+        "MAE": 42.27777777777778,
+        "RMSE": 58.28559951747182
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 2186,
+      "fallback_starts": 3,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 12,
+      "budget_exhaustion_callbacks": 1,
+      "calls": 10,
+      "wall": 0.3113598,
+      "effort": 0.07714274607520696,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 42.38,
+        "RMSE": 47.626673198954386
+      },
+      "decision_metric": {
+        "coverage": 97,
+        "MAE": 43.69072164948454,
+        "RMSE": 50.33803259736316
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 2322,
+      "fallback_starts": 85,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 537,
+      "budget_exhaustion_callbacks": 89,
+      "calls": 10,
+      "wall": 0.7385122000000001,
+      "effort": 0.20019446574073896,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 41.94,
+        "RMSE": 47.565113265922115
+      },
+      "decision_metric": {
+        "coverage": 15,
+        "MAE": 39.53333333333333,
+        "RMSE": 52.67953429305666
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 2170,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.3048126,
+      "effort": 0.07687510267520697,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 42.33,
+        "RMSE": 47.52883335408097
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 44.09,
+        "RMSE": 50.54730457699995
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 2133,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 4,
+      "budget_exhaustion_callbacks": 1,
+      "calls": 10,
+      "wall": 0.34104070000000003,
+      "effort": 0.08730105503889368,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 39.4,
+        "RMSE": 56.10115863331167
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 39.4,
+        "RMSE": 56.10115863331167
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 2292,
+      "fallback_starts": 6,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 18,
+      "budget_exhaustion_callbacks": 2,
+      "calls": 10,
+      "wall": 0.38294320000000004,
+      "effort": 0.10568281356617099,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 38.72,
+        "RMSE": 45.4138745319093
+      },
+      "decision_metric": {
+        "coverage": 94,
+        "MAE": 39.01063829787234,
+        "RMSE": 47.22659276117415
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 2256,
+      "fallback_starts": 85,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 556,
+      "budget_exhaustion_callbacks": 88,
+      "calls": 10,
+      "wall": 0.7585753000000001,
+      "effort": 0.20066791930399702,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 38.81,
+        "RMSE": 45.79770736619902
+      },
+      "decision_metric": {
+        "coverage": 15,
+        "MAE": 38.333333333333336,
+        "RMSE": 51.789960417053805
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 2254,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 9,
+      "wall": 0.35929880000000003,
+      "effort": 0.1009802243078198,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 38.34,
+        "RMSE": 45.303862969949925
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 38.76,
+        "RMSE": 46.90714231329809
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 2837,
+      "fallback_starts": 15,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 28,
+      "budget_exhaustion_callbacks": 5,
+      "calls": 10,
+      "wall": 0.44140300000000005,
+      "effort": 0.11304629457590624,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 53.13,
+        "RMSE": 81.21299157154598
+      },
+      "decision_metric": {
+        "coverage": 85,
+        "MAE": 53.21176470588235,
+        "RMSE": 80.35970602821527
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 2648,
+      "fallback_starts": 9,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 42,
+      "budget_exhaustion_callbacks": 4,
+      "calls": 10,
+      "wall": 0.3482523,
+      "effort": 0.08800850984799923,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 47.66,
+        "RMSE": 58.2532402532254
+      },
+      "decision_metric": {
+        "coverage": 91,
+        "MAE": 47.73626373626374,
+        "RMSE": 61.35234217297568
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 3095,
+      "fallback_starts": 85,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 547,
+      "budget_exhaustion_callbacks": 89,
+      "calls": 10,
+      "wall": 0.7692001,
+      "effort": 0.20019446574073896,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 47.71,
+        "RMSE": 59.985248186533326
+      },
+      "decision_metric": {
+        "coverage": 15,
+        "MAE": 50.6,
+        "RMSE": 80.30732635735464
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 2608,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 9,
+      "wall": 0.31004760000000003,
+      "effort": 0.07974515881502925,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 47.71,
+        "RMSE": 58.18822905021255
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 48.42,
+        "RMSE": 60.19518253149499
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 2564,
+      "fallback_starts": 8,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 15,
+      "budget_exhaustion_callbacks": 3,
+      "calls": 10,
+      "wall": 0.4128005,
+      "effort": 0.10853652410377532,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 49.44,
+        "RMSE": 73.50673438536091
+      },
+      "decision_metric": {
+        "coverage": 92,
+        "MAE": 46.858695652173914,
+        "RMSE": 69.54205796557186
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 2446,
+      "fallback_starts": 10,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 29,
+      "budget_exhaustion_callbacks": 3,
+      "calls": 10,
+      "wall": 0.35345230000000005,
+      "effort": 0.09064475024544505,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 43.75,
+        "RMSE": 55.79507146693156
+      },
+      "decision_metric": {
+        "coverage": 90,
+        "MAE": 45.022222222222226,
+        "RMSE": 61.6965693265571
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 2760,
+      "fallback_starts": 85,
+      "starts": 100,
+      "fallback_episodes": 1,
+      "fallback_callbacks": 558,
+      "budget_exhaustion_callbacks": 86,
+      "calls": 10,
+      "wall": 0.7460795,
+      "effort": 0.20066791930399702,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 43.55,
+        "RMSE": 55.78951514397665
+      },
+      "decision_metric": {
+        "coverage": 15,
+        "MAE": 42.266666666666666,
+        "RMSE": 53.98394823154997
+      }
+    },
+    {
+      "instance": "abz5",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 2571,
+      "fallback_starts": 0,
+      "starts": 100,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 8,
+      "wall": 0.3216588,
+      "effort": 0.07429624908706323,
+      "start_metric": {
+        "coverage": 100,
+        "MAE": 43.94,
+        "RMSE": 56.130383928849085
+      },
+      "decision_metric": {
+        "coverage": 100,
+        "MAE": 44.1,
+        "RMSE": 57.6576100788092
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0018219,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0007458,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0011533000000000001,
+      "effort": 3.8321999999999995e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 1,
+      "wall": 0.0005545000000000001,
+      "effort": 2.446e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0007034000000000001,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0007879,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0012235000000000002,
+      "effort": 3.8321999999999995e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "deterministic",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 4,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 1,
+      "wall": 0.0005959,
+      "effort": 2.446e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.0,
+        "RMSE": 0.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0007813000000000001,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0007625000000000002,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0011686,
+      "effort": 3.8321999999999995e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 1,
+      "wall": 0.0006597,
+      "effort": 2.446e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0008033000000000001,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0013523,
+      "effort": 2.506e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0011133,
+      "effort": 3.8321999999999995e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "slowdown",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 5,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 1,
+      "wall": 0.0005755000000000001,
+      "effort": 2.446e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.2,
+        "RMSE": 0.4472135954999579
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 6,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0009505000000000001,
+      "effort": 3.1974e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 6,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0010327000000000001,
+      "effort": 3.1974e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 6,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 5,
+      "wall": 0.0015285000000000001,
+      "effort": 3.6474e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 7,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0009192,
+      "effort": 3.2022e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 1.0,
+        "RMSE": 1.1832159566199232
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 7,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0011236,
+      "effort": 4.0241999999999995e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 7,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0012243,
+      "effort": 4.0241999999999995e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 7,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 4,
+      "wall": 0.0014674,
+      "effort": 6.252200000000001e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stationary",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 8,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0010010000000000002,
+      "effort": 4.714000000000001e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B1",
+      "makespan": 9,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0011521,
+      "effort": 3.2373999999999997e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B2",
+      "makespan": 9,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0013399,
+      "effort": 3.2373999999999997e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.4142135623730951
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B3",
+      "makespan": 8,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 5,
+      "wall": 0.0015271,
+      "effort": 3.6474e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 11,
+      "policy": "B4",
+      "makespan": 10,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 3,
+      "wall": 0.0013324,
+      "effort": 3.2022e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B1",
+      "makespan": 10,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 4,
+      "wall": 0.0012882000000000002,
+      "effort": 4.0842e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 1.2,
+        "RMSE": 1.6733200530681511
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B2",
+      "makespan": 10,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 4,
+      "wall": 0.0013726,
+      "effort": 4.0241999999999995e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 1.0,
+        "RMSE": 1.3416407864998738
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B3",
+      "makespan": 10,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 5,
+      "wall": 0.0017899,
+      "effort": 6.512200000000001e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      }
+    },
+    {
+      "instance": "tiny",
+      "regime": "stochastic_slowdown",
+      "seed": 29,
+      "policy": "B4",
+      "makespan": 10,
+      "fallback_starts": 0,
+      "starts": 5,
+      "fallback_episodes": 0,
+      "fallback_callbacks": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 2,
+      "wall": 0.0010509,
+      "effort": 4.714000000000001e-06,
+      "start_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      },
+      "decision_metric": {
+        "coverage": 5,
+        "MAE": 0.8,
+        "RMSE": 1.2649110640673518
+      }
+    }
+  ],
+  "totals": {
+    "B1": {
+      "starts": 840,
+      "fallback_starts": 33,
+      "fallback_callbacks": 68,
+      "fallback_episodes": 4,
+      "budget_exhaustion_callbacks": 11,
+      "calls": 92,
+      "wall": 2.7703634,
+      "effort": 0.7318658506257165
+    },
+    "B2": {
+      "starts": 840,
+      "fallback_starts": 28,
+      "fallback_callbacks": 101,
+      "fallback_episodes": 4,
+      "budget_exhaustion_callbacks": 10,
+      "calls": 92,
+      "wall": 2.5449714,
+      "effort": 0.6558401363717264
+    },
+    "B3": {
+      "starts": 840,
+      "fallback_starts": 672,
+      "fallback_callbacks": 3846,
+      "fallback_episodes": 8,
+      "budget_exhaustion_callbacks": 690,
+      "calls": 111,
+      "wall": 6.1647328,
+      "effort": 1.6037574370878454
+    },
+    "B4": {
+      "starts": 840,
+      "fallback_starts": 0,
+      "fallback_callbacks": 0,
+      "fallback_episodes": 0,
+      "budget_exhaustion_callbacks": 0,
+      "calls": 55,
+      "wall": 1.7931644,
+      "effort": 0.4528145735892055
+    }
+  },
+  "sources": [
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-11-B1.json",
+      "sha256": "5534304ee561984eccdcc64b4cd156edee9bd6c7309c14efc4c7cafae731d1e6"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-11-B2.json",
+      "sha256": "ee1612715998ba8310afda5db8c1136168ae6816609578deff4d34b12ffe5945"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-11-B3.json",
+      "sha256": "5f4c81c2d7fbf0d08d955b6ae06094ad16db6b9e92e5672356107036df7caa90"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-11-B4.json",
+      "sha256": "2236d2b5f9020087cc7335a9cb2b6ff071ac955f314d5aa723c672a2b7e6dd13"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-29-B1.json",
+      "sha256": "2d1167087f354c0f0fac683fd7dae143dc30d1ae956dc358df013bcbe33deb28"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-29-B2.json",
+      "sha256": "ed4a7026597f3f5038e49d21d660e3fe7ccb0e4e788b82b86119fe2e6b9f2983"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-29-B3.json",
+      "sha256": "10c2d8c72f7dc94b81f9f605ab34068f74a090ed66f0e24239cf54473c84c5a4"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-deterministic-29-B4.json",
+      "sha256": "bc82c506af887f363df00e188daaf098bf35d627de2dad5f380e4ce0bdeb3c2b"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-11-B1.json",
+      "sha256": "306d85f411cb9aa30d8174302a3b671605baba59d808b5a62bec91f692ca57c3"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-11-B2.json",
+      "sha256": "0c400d68889036ec08ff4a64bbd800a215ccd4b1377aeca366634fd0b5d2fb59"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-11-B3.json",
+      "sha256": "fb3196c0efd0a0234711cd75f5ee6c7a8d66583103be9781d1af8596dfd3b712"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-11-B4.json",
+      "sha256": "ee95168ec66ebc1e3981252bf7faaabee7bf9eed3de5b57e3e1dba2995bb82e2"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-29-B1.json",
+      "sha256": "59081d7635cfb9191ee74baff0407a19541cd01e6132f3b7349e098d5cf79e1b"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-29-B2.json",
+      "sha256": "8f72a3a411ae6ae66f001ca8bd1995c270607a9e77db67f3e4177afb2b892cbe"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-29-B3.json",
+      "sha256": "7389cc793e19a9459e42aa703b416cce6410c4967e5777a391a539d85c6e9e71"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-slowdown-29-B4.json",
+      "sha256": "ad7fbd91b235930a8f27affd82fe2a587a8eee1392271fd7636380abe5337873"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-11-B1.json",
+      "sha256": "966590abedd96f8d2bda40346e66e69291215411e34c5388e63d78519d2cb01f"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-11-B2.json",
+      "sha256": "1dec2b3ba8fb4240c7d5387255198a623ad44627acd51a52457bd2ff7a6a6b3c"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-11-B3.json",
+      "sha256": "610f748ece09f2f4608c59827d7e9acf5c8bcf082005ee08e43fb2bb738168be"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-11-B4.json",
+      "sha256": "e50b30621bd9356abcd3011609244409297833360eb2aac2277b74d94002056a"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-29-B1.json",
+      "sha256": "64e952d5e26d3d9693cb5d67b0b3cadf4efdc4afe69d96dda714765f07a43303"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-29-B2.json",
+      "sha256": "23148a06e2e365fcf34db33d1eee89b9d85ad9f113defe58ea06f1feaf1f3acf"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-29-B3.json",
+      "sha256": "55ffd2603c95d0904181992bd5a4c9440e7f59bc38d5100f45a3ab5405880c66"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stationary-29-B4.json",
+      "sha256": "3f5256cdbc59cc630ad4fffb74d0b66d94624d71bafdeebb34e875f9c54550a8"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-11-B1.json",
+      "sha256": "7836cf40f020519573a51ff65ca8bec8be7d8a6304e3d3ed1983122249c366ec"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-11-B2.json",
+      "sha256": "eeb01fc30408895c2723540100f11fea64cc91e68ef077183164d27f366b9597"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-11-B3.json",
+      "sha256": "c98101269fa2c8489e25c56c7bde2ebe7ddb57a8955a6a2ce143f97fe8c3a996"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-11-B4.json",
+      "sha256": "0881c83ac7ebed559f43aef238d46791d7c9a53332dca6afd32ff7771e0c865e"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-29-B1.json",
+      "sha256": "e16edf452bc78d1f1f0a07c3a16424caf934e3ee4edd2e3f868b1f50ff1059b6"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-29-B2.json",
+      "sha256": "0adcf8e6de12ce1ae74cc52616095225fecc612f3533042fa281ea9cbab9e1a0"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-29-B3.json",
+      "sha256": "6d7ae08d7ac0ff159ee37b91a6ce49fa760b23bc384450f25be3740e4938f8b6"
+    },
+    {
+      "path": "phase2c-final-pilot/abz5-stochastic_slowdown-29-B4.json",
+      "sha256": "412ede8dbf12e62a5179aa2a673a047b6a3e82cb9eb454144a5c6fb66f25556d"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-11-B1.json",
+      "sha256": "0b3593f8e6d5640dd00a90c60bd40c3514f955d3e8f25a8f875262db4f514b7e"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-11-B2.json",
+      "sha256": "3157a6083a921152f317fe58bd478515c4ddf466bf2fb107a0f64b5fa2ad411d"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-11-B3.json",
+      "sha256": "f5c44cf288b6e159dec620ae9c914a3dfb7b802cd370a982b61b84e2ef49c966"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-11-B4.json",
+      "sha256": "6ab66198ba9dd376dccbc897024e3090a2240dd0482246149d8ce794e008d33e"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-29-B1.json",
+      "sha256": "a2cf22feb35f262b5daaae1023a6aa38ecc71bd4bae774b187348a3379afee4a"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-29-B2.json",
+      "sha256": "9d82a49043c36f58daeb5898bbb0e1d5d873dc9d1d484482c3260d7afc2dbab5"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-29-B3.json",
+      "sha256": "08b16cf97b202acb2b20fb8f48fcef8cdd1033dd86ee54ba5c9f2308476f07e6"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-deterministic-29-B4.json",
+      "sha256": "b3bd0c26b46fdf7f07a44a5eabc9228cd6c78f4ed23f134bb5fa544fe8d42970"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-11-B1.json",
+      "sha256": "067e653b9ce1f769f9e0c16ace1b91ffcbccd153bc9eac42f8d845cf57cb9104"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-11-B2.json",
+      "sha256": "a70a77bbcaa0e38021750c7217bdc37644fe9d6c5627d9ff0a2b747b5ef0d9fb"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-11-B3.json",
+      "sha256": "d5a1eba0bd51c55b0eb04790e5fb32d228431608936c8313cfda3b3c3e66eb23"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-11-B4.json",
+      "sha256": "de1f6b0a0a2d9ab397fd7682f4919eb046489b17c634510ab2c6b5cbc86c2e5c"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-29-B1.json",
+      "sha256": "3954639d16c15d499503bf6ccb456800435b9990b249d8e0ad666c35a3befe18"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-29-B2.json",
+      "sha256": "1fa08eddee872f88679990fea9cc4e404e0d52c1026218274a8ef7c77aa08a89"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-29-B3.json",
+      "sha256": "ca68a9233b8af3ce17784924b2b57cbeaf536d43e273b20d8c5e4d4ad835eaba"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-slowdown-29-B4.json",
+      "sha256": "1b5383983a0ffa8a28171f79253c8229e1605dc5598104810bd572449f1ff8f0"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-11-B1.json",
+      "sha256": "18777a3f4c358d6168f5098d775e0a6bb93ef7d96312fd6eb3d3424fd4eb9213"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-11-B2.json",
+      "sha256": "4251092d9d41b45ae6d8c22bd09affae4428bedb3450311456a247fb106fe030"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-11-B3.json",
+      "sha256": "f5e67483096233689d02649609b02541479adf54811dbf4e6d5ae8625cda523b"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-11-B4.json",
+      "sha256": "3b413945710043f5991b989eef26220041458626dfcfaffe0d2d90b32a2ef6c0"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-29-B1.json",
+      "sha256": "51ac3c00c572f422328a7e612adbea5a54aa98007e96603cf9bc21075cdc81ce"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-29-B2.json",
+      "sha256": "da7969f040ca43575b0ddc506e0799042822e8e72c27f49ea2eff5b39c8903de"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-29-B3.json",
+      "sha256": "c760b6f7edb1873b8d8de231189d69f6591018dcfea0f674b92cecd993bc6e2b"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stationary-29-B4.json",
+      "sha256": "683c58e5611d57af02bd001892ba19293caafc3e0ad6bd79651d3815075f0fbb"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-11-B1.json",
+      "sha256": "de9f3345e0fc6869ceba2bd387882c444d8fc5d9f2b655009405b988b347456f"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-11-B2.json",
+      "sha256": "fe2bfa3af971dc90de548507d7232abeeb9822da305faf293db1d4dffd7a7302"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-11-B3.json",
+      "sha256": "ada1248ff0240d79fbc76089dc43e2e3b118db26f34a6ab3a2899b2ee5b0f15a"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-11-B4.json",
+      "sha256": "b466a2d43f75159494942c367cfd9eadce52809f1c24390239d3a6c627b7201b"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-29-B1.json",
+      "sha256": "163cc8eb25ba1b8e0e39c2bfb0c31370f6435a7e444455d1fdce6c718b409ed0"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-29-B2.json",
+      "sha256": "694a6f071559ecd85752ea051f5ea0fdbc9b60b8d8a442bd8f86b71468c6788a"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-29-B3.json",
+      "sha256": "9378e7e38d7cbef154849f0e98aa9ab0d3cdebc5e07e6d758d0c1c5f294d231b"
+    },
+    {
+      "path": "phase2c-final-pilot/tiny-stochastic_slowdown-29-B4.json",
+      "sha256": "b9334825b79fefd84833a24152ecfbf6890cebdd3fb3acaba7af943e3347c0cb"
+    }
+  ]
+}

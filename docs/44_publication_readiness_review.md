@@ -1,0 +1,13 @@
+# Publication / public-release readiness review
+
+CONDITIONAL GO for private application review; not an assertion of publication readiness or scientific superiority. No publication or remote push performed.
+
+Actual checks:130 existing tests passed (portfolio-tests.log); small baseline smoke makespan4 validated/replayed; audit_phase2c reconstructs all64 final records; figures generated twice from raw, identical data manifest. Three figure PNG/PDF pairs created. Report is3 pages and summary1 page. No pdflatex/xelatex/tectonic available; complete .tex source retained, PDFs rendered by ReportLab4.4.9. TeX compilation itself unverified. Document dependencies separately listed; scheduling lock unchanged.
+
+Visual QA: report pages and summary rendered with pdftoppm and inspected. Initial report raster-image size issue corrected by explicit Image constructor dimensions; Figure2 footnote overlap corrected with bottom margin. Final inspected pages have readable labels and no clipping. Poppler warned about missing fallback Symbol/ArialUnicode display fonts; rendered text inspected without visible missing glyphs. Architecture is illustrative, empirical plots use raw data. Architecture adjusted to avoid a misleading simulator-to-planner shortcut across public boundary.
+
+Privacy: historical logs contain absolute local paths and machine-specific metadata. They remain preserved in working repository but are excluded from portfolio package. Package whitelist contains core sources/tests, final raw scientific results, clean public docs and portfolio logs. No API keys or environment dumps intentionally included. Programmatic scan and README link verification recorded in portfolio-package-qa.json; this is not an exhaustive secret-detection certification. No author name/contact was supplied; none invented. Add these before application submission if desired.
+
+Before public GitHub release: choose original-code license, confirm benchmark data rights beyond repository-wide MIT notice, review author/contact and all metadata. Public package includes raw records supporting reported figures; old historical evidence remains local rather than being silently removed. Full source repository would need broader privacy review before publication.
+
+Scientific limits: one benchmark, few seeds, deterministic duplicates, fallback-heavy B3, unequal actual work under equal caps, endogenous forecast-error exposure, platform-sensitive reoptimization, no statistically supported universal ranking. Paper-style formatting does not imply submission or acceptance. Position as research engineering and controlled empirical evaluation.

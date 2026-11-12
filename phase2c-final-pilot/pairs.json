@@ -1,0 +1,450 @@
+[
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": 1
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": 1
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": 1
+  },
+  {
+    "instance": "tiny",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": 1
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": -1
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": 1
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": 2
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": 0
+  },
+  {
+    "instance": "tiny",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": 0
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": -20
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": -87
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": -67
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": 0
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": -20
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": -87
+  },
+  {
+    "instance": "abz5",
+    "regime": "deterministic",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": -67
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": -161
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": 136
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": -16
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": -152
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": 159
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": -36
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": -38
+  },
+  {
+    "instance": "abz5",
+    "regime": "stationary",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": -2
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": -17
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": 343
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": 23
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": -320
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": -17
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": 343
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": 23
+  },
+  {
+    "instance": "abz5",
+    "regime": "slowdown",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": -320
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B2-B1",
+    "difference": -189
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B3-B2",
+    "difference": 447
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B4-B2",
+    "difference": -40
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 11,
+    "comparison": "B4-B3",
+    "difference": -487
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B2-B1",
+    "difference": -118
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B3-B2",
+    "difference": 314
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B4-B2",
+    "difference": 125
+  },
+  {
+    "instance": "abz5",
+    "regime": "stochastic_slowdown",
+    "seed": 29,
+    "comparison": "B4-B3",
+    "difference": -189
+  }
+]
